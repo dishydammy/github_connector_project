@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 class GitHubClient:
     """"Client to interact with the Github API"""
 
-    BASE_URL = "https//api.github.com"
+    BASE_URL = "https://api.github.com"
 
     def __init__(self):
         load_dotenv()
