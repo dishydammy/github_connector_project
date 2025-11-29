@@ -6,8 +6,8 @@ def main():
 
     #Initialize Github Client
     client = GitHubClient()
-    owner = "psf"
-    repo = "requests"
+    owner = "Paulooh007"
+    repo = "drone-based-plant-monitoring-system"
 
     try:
         #Fetch repository details
